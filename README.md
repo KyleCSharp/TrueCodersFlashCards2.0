@@ -5,7 +5,7 @@ This project is a simple flashcards web application designed to help users learn
 # Features
 The True Coders Flashcards MVC Project includes the following features:
 
-Ability to view flashcards for C#, CSS, HTML, and SQL
+Ability to view flashcards for C#, CSS, HTML, JavaScript, and SQL
 # Architecture
 The project is built using the Model-View-Controller (MVC) architectural pattern, which separates the application logic into three interconnected components:
 
