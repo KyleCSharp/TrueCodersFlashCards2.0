@@ -1,0 +1,42 @@
+﻿@model IEnumerable<FlashCard>
+<div>
+    <h1 class="Title">C# Flash Cards</h1>   
+</div>
+<div class="flashcard-container">
+    @foreach (var flashCard in Model)
+    {
+        <div class="flashcard">
+            <div class="front">@flashCard.Front</div>
+            <div class="back">@flashCard.Back</div>
+        </div>
+    }
+</div>
+@section Scripts
+{
+    <script type="text/javascript">
+        var flashcards = document.querySelectorAll(".flashcard");
+
+        flashcards.forEach(function (flashcard) {
+            flashcard.addEventListener("click", function () {
+                flashcard.classList.toggle("flipped");
+            });
+        });
+        var flashcards1 = document.querySelectorAll(".front");
+
+        flashcards1.forEach(function (flashcard) {
+            flashcard.addEventListener("click", function () {
+                flashcard.classList.toggle("flipped");
+            });
+        });
+        var flashcards2 = document.querySelectorAll(".back");
+
+        flashcards2.forEach(function (flashcard) {
+            flashcard.addEventListener("click", function () {
+                flashcard.classList.toggle("flipped2");
+                
+            });
+        });
+      
+    
+    </script>
+}

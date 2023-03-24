@@ -1,0 +1,13 @@
+﻿@model IEnumerable<FlashCard>
+<div>
+    <h1 class="Title">JavaScript Flash Cards</h1>
+</div>
+<div class="flashcard-container">
+    @foreach (var flashCard in Model)
+    {
+        <div class="flashcard">
+            <div class="front">@flashCard.Front</div>
+            <div class="back">@flashCard.Back</div>
+        </div>
+    }
+</div>

@@ -1,0 +1,323 @@
+/* _content/TrueCodersFlashCards2.0/Views/CSSFlashCards/Index.cshtml.rz.scp.css */
+.Title[b-ivxwsg9tqg] {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.flashcard-container[b-ivxwsg9tqg] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flashcard[b-ivxwsg9tqg] {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    perspective: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+    .flashcard:hover .front[b-ivxwsg9tqg] {
+        transform: rotateY(190deg);
+    }
+
+    .flashcard:hover .back[b-ivxwsg9tqg] {
+        transform: rotateY(0);
+    }
+
+.front[b-ivxwsg9tqg], .back[b-ivxwsg9tqg] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    text-align: center;
+    align-self: center;
+}
+
+.front[b-ivxwsg9tqg] {
+    background-color: gray;
+    z-index: 2;
+}
+
+.back[b-ivxwsg9tqg] {
+    background-color: #f5f5f5;
+    transform: rotateY(180deg);
+    z-index: 1;
+}
+/* _content/TrueCodersFlashCards2.0/Views/C_FlashCards/Index.cshtml.rz.scp.css */
+
+.Title[b-nqi5ucjtz8] {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.flashcard-container[b-nqi5ucjtz8] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flashcard[b-nqi5ucjtz8] {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    perspective: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.flashcard:hover .front[b-nqi5ucjtz8] 
+{
+  transform: rotateY(180deg);
+}
+
+ .flashcard:hover .back[b-nqi5ucjtz8] 
+ {
+   transform: rotateY(0);
+ }
+.front[b-nqi5ucjtz8], .back[b-nqi5ucjtz8] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    text-align: center;
+    align-self: center;
+}
+
+.front[b-nqi5ucjtz8] 
+{
+    background-color: gray;
+    z-index: 2;
+}
+
+.back[b-nqi5ucjtz8] 
+{
+    background-color: #f5f5f5;
+    transform: rotateY(0deg);
+    z-index: 1;
+}
+
+
+/* _content/TrueCodersFlashCards2.0/Views/HTMLFlashCards/Index.cshtml.rz.scp.css */
+.Title[b-dfwdhr7nkn] {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.flashcard-container[b-dfwdhr7nkn] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flashcard[b-dfwdhr7nkn] {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    perspective: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+    .flashcard:hover .front[b-dfwdhr7nkn] {
+        transform: rotateY(190deg);
+    }
+
+    .flashcard:hover .back[b-dfwdhr7nkn] {
+        transform: rotateY(0);
+    }
+
+.front[b-dfwdhr7nkn], .back[b-dfwdhr7nkn] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    text-align: center;
+    align-self: center;
+}
+
+.front[b-dfwdhr7nkn] {
+    background-color: gray;
+    z-index: 2;
+}
+
+.back[b-dfwdhr7nkn] {
+    background-color: #f5f5f5;
+    transform: rotateY(180deg);
+    z-index: 1;
+}
+/* _content/TrueCodersFlashCards2.0/Views/JavaScriptFlashCards/Index.cshtml.rz.scp.css */
+.Title[b-1fq6ci260i]{
+    text-align:center;
+}
+
+.Title[b-1fq6ci260i] {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.flashcard-container[b-1fq6ci260i] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flashcard[b-1fq6ci260i] {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    perspective: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+    .flashcard:hover .front[b-1fq6ci260i] 
+    {
+        transform: rotateY(180deg);
+ 
+    }
+
+    .flashcard:hover .back[b-1fq6ci260i] {
+        transform: rotateY(0);
+    }
+
+.front[b-1fq6ci260i], .back[b-1fq6ci260i] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    text-align: center;
+    align-self: center;
+}
+
+.front[b-1fq6ci260i] {
+    background-color: gray;
+    z-index: 2;
+}
+
+.back[b-1fq6ci260i] {
+    background-color: #f5f5f5;
+    transform: rotateY(0deg);
+    z-index: 1;
+}
+
+
+/* _content/TrueCodersFlashCards2.0/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-uao6m5b08g] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-uao6m5b08g] {
+  color: #0077cc;
+}
+
+.btn-primary[b-uao6m5b08g] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-uao6m5b08g], .nav-pills .show > .nav-link[b-uao6m5b08g] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-uao6m5b08g] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-uao6m5b08g] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-uao6m5b08g] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-uao6m5b08g] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-uao6m5b08g] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/TrueCodersFlashCards2.0/Views/SQLFlashCards/Index.cshtml.rz.scp.css */
+.Title[b-nzk4z8q3v4] {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.flashcard-container[b-nzk4z8q3v4] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flashcard[b-nzk4z8q3v4] {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    perspective: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+    .flashcard:hover .front[b-nzk4z8q3v4] {
+        transform: rotateY(190deg);
+    }
+
+    .flashcard:hover .back[b-nzk4z8q3v4] {
+        transform: rotateY(0);
+    }
+
+.front[b-nzk4z8q3v4], .back[b-nzk4z8q3v4] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    text-align: center;
+    align-self: center;
+}
+
+.front[b-nzk4z8q3v4] {
+    background-color: gray;
+    z-index: 2;
+}
+
+.back[b-nzk4z8q3v4] {
+    background-color: #f5f5f5;
+    transform: rotateY(180deg);
+    z-index: 1;
+}
