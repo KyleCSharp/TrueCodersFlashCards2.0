@@ -20,7 +20,6 @@ D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\static
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\staticwebassets.build.json
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\staticwebassets.development.json
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\scopedcss\Views\CSSFlashCards\Index.cshtml.rz.scp.css
-D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\scopedcss\Views\C_FlashCards\Index.cshtml.rz.scp.css
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\scopedcss\Views\HTMLFlashCards\Index.cshtml.rz.scp.css
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\scopedcss\Views\JavaScriptFlashCards\Index.cshtml.rz.scp.css
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
@@ -32,3 +31,4 @@ D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\refint
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\TrueCodersFlashCards2.0.pdb
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\TrueCodersFlashCards2.0.genruntimeconfig.cache
 D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\ref\TrueCodersFlashCards2.0.dll
+D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\obj\Debug\net7.0\scopedcss\Views\CSharpFlashCards\Index.cshtml.rz.scp.css

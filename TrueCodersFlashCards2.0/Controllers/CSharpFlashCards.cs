@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.ViewEngines;
 
 namespace TrueCodersFlashCards_NO_DB_.Controllers
 {
-    public class C_FlashCards : Controller
+    public class CSharpFlashCards : Controller
     {
        private readonly ICSharpFlashCardsrepo repo;
 
-        public C_FlashCards(ICSharpFlashCardsrepo repo)
+        public CSharpFlashCards(ICSharpFlashCardsrepo repo)
         {
             this.repo = repo;
         }

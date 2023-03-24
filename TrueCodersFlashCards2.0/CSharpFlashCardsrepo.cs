@@ -365,7 +365,7 @@ namespace TrueCodersFlashCards_NO_DB_
             flashcard13.Back = "Answer: Synchronous programming is when code is executed in sequence, one statement at a time. Asynchronous programming allows";
             #endregion
 
-            var flashCards = new List<FlashCard> {flashcard1, flashcard2, flashcard3, flashcard4, flashcard5, flashcard6, flashcard7, flashcard8, flashcard9, flashcard10, flashcard11, flashcard12, flashcard13};
+            var flashCards = new List<FlashCard> { flashcard1, flashcard2, flashcard3, flashcard4, flashcard5, flashcard6, flashcard7, flashcard8, flashcard9, flashcard10, flashcard11, flashcard12, flashcard13 };
             return flashCards;
         }
     }
