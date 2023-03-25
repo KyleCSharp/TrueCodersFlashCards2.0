@@ -47,9 +47,8 @@
     z-index: 2;
 }
 
-.back 
-{
-    background-color: #f5f5f5;
+.back {
+    background-color: gray;
     transform: rotateY(0deg);
     z-index: 1;
 }

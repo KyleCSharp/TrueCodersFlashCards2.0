@@ -48,9 +48,8 @@
     z-index: 2;
 }
 
-.back[b-1zpdmaycft] 
-{
-    background-color: #f5f5f5;
+.back[b-1zpdmaycft] {
+    background-color: gray;
     transform: rotateY(0deg);
     z-index: 1;
 }
@@ -104,7 +103,7 @@
 }
 
 .back[b-ivxwsg9tqg] {
-    background-color: #f5f5f5;
+    background-color: gray;
     transform: rotateY(180deg);
     z-index: 1;
 }
@@ -156,7 +155,7 @@
 }
 
 .back[b-dfwdhr7nkn] {
-    background-color: #f5f5f5;
+    background-color: gray;
     transform: rotateY(180deg);
     z-index: 1;
 }
@@ -214,7 +213,7 @@
 }
 
 .back[b-1fq6ci260i] {
-    background-color: #f5f5f5;
+    background-color: gray;
     transform: rotateY(0deg);
     z-index: 1;
 }
@@ -317,7 +316,7 @@ button.accept-policy[b-uao6m5b08g] {
 }
 
 .back[b-nzk4z8q3v4] {
-    background-color: #f5f5f5;
+    background-color: gray;
     transform: rotateY(180deg);
     z-index: 1;
 }
