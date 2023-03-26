@@ -45,7 +45,7 @@
 }
 
 .back {
-    background-color: gray;
+    background-color: #88888d;
     transform: rotateY(180deg);
     z-index: 1;
 }

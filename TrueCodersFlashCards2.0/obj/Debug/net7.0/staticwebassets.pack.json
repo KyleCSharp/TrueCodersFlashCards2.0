@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\wwwroot\\img\\TrueCodersLogo_Inline.jpg",
+      "PackagePath": "staticwebassets\\img\\TrueCodersLogo_Inline.jpg"
+    },
+    {
       "Id": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

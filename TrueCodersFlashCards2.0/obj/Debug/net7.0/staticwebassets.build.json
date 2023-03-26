@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3k/S6RWWqUuy2OZ4SqWamP2W3Suhz/+75oQ5JPLHgJY=",
+  "Hash": "89gLdas5/sdRLGtsIBBxA8N0y93Eh1lIDo3AvdQT2qk=",
   "Source": "TrueCodersFlashCards2.0",
   "BasePath": "_content/TrueCodersFlashCards2.0",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\wwwroot\\img\\TrueCodersLogo_Inline.jpg",
+      "SourceId": "TrueCodersFlashCards2.0",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\wwwroot\\",
+      "BasePath": "_content/TrueCodersFlashCards2.0",
+      "RelativePath": "img/TrueCodersLogo_Inline.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\TrueCodersLogo_Inline.jpg"
     },
     {
       "Identity": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\wwwroot\\js\\site.js",

@@ -7,4 +7,8 @@
     <RootNamespace>TrueCodersFlashCards2._0</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Resource Include="wwwroot\img\TrueCodersLogo_Inline.jpg" />
+  </ItemGroup>
+
 </Project>
