@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\img\TrueCodersLogo_Inline.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="wwwroot\img\TrueCodersLogo_Inline.jpg" />
   </ItemGroup>
 
