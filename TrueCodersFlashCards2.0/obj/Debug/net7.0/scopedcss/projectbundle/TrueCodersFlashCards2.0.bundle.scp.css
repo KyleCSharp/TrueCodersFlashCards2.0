@@ -18,8 +18,9 @@
     perspective: 1000px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    
     text-align: center;
+   
 }
 
 .flashcard:hover .front[b-1zpdmaycft] 
@@ -52,6 +53,10 @@
     background-color: #88888d;
     transform: rotateY(0deg);
     z-index: 1;
+}
+body[b-1zpdmaycft]
+{
+    background-color:gray;
 }
 
 

@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TrueCodersFlashCards2._0
 build_property.RootNamespace = TrueCodersFlashCards2._0
-build_property.ProjectDir = D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\
+build_property.ProjectDir = D:\Repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0
+build_property.MSBuildProjectDirectory = D:\Repos\TrueCodersFlashCards2.0\TrueCodersFlashCards2.0
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Home/Index.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Home/Privacy.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Shared/Error.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/_ViewImports.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/_ViewStart.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/CSharpFlashCards/Index.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/CSharpFlashCards/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NoYXJwRmxhc2hDYXJkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-1zpdmaycft
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/CSSFlashCards/Index.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/CSSFlashCards/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NTRmxhc2hDYXJkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-ivxwsg9tqg
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/HTMLFlashCards/Index.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/HTMLFlashCards/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFRNTEZsYXNoQ2FyZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dfwdhr7nkn
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/JavaScriptFlashCards/Index.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/JavaScriptFlashCards/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmF2YVNjcmlwdEZsYXNoQ2FyZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1fq6ci260i
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Shared/_Layout.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uao6m5b08g
 
-[D:/repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/SQLFlashCards/Index.cshtml]
+[D:/Repos/TrueCodersFlashCards2.0/TrueCodersFlashCards2.0/Views/SQLFlashCards/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1FMRmxhc2hDYXJkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-nzk4z8q3v4

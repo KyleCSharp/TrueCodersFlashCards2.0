@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj": {}
+    "D:\\Repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj": {}
   },
   "projects": {
-    "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj": {
+    "D:\\Repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj",
+        "projectUniqueName": "D:\\Repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj",
         "projectName": "TrueCodersFlashCards2.0",
-        "projectPath": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj",
+        "projectPath": "D:\\Repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0.csproj",
         "packagesPath": "C:\\Users\\kylel\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\obj\\",
+        "outputPath": "D:\\Repos\\TrueCodersFlashCards2.0\\TrueCodersFlashCards2.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
